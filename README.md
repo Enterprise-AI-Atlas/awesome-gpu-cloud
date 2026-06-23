@@ -186,6 +186,6 @@ Read [CONTRIBUTING.md](./CONTRIBUTING.md) for the quality bar, entry format, and
 
 This list is released into the public domain under [CC0-1.0](./LICENSE).
 
-## Need implementation help?
+## Want us to build this for you?
 
-Enterprise AI Atlas is maintained by [Vibe Coding Agency](https://vibecodingagency.com). If your team needs support designing, building, or deploying production AI systems covered in this atlas, [get in touch](https://vibecodingagency.com).
+Enterprise AI Atlas is maintained by [Vibe Coding Agency](https://vibecodingagency.com). We prototype and ship agentic systems, MCP servers, and enterprise AI integrations for teams that need working software fast — without hiring a full AI engineering team.
