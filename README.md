@@ -74,6 +74,8 @@ Aggregators and peer-to-peer marketplaces for finding GPU capacity across provid
 - **[TensorDock](https://www.tensordock.com/)** `Community` / `Marketplace` — Marketplace of independent hosts offering H100, A100, RTX 4090, and more across 100+ locations.
   - Pricing: H100 from ~$2.20/hr; no quotas or long-term contracts.
 - **[Shadeform](https://shadeform.com/)** `Community` / `Marketplace` — GPU cloud marketplace deploying across 30+ clouds with one console, API, and bill.
+- **[Lium](https://lium.io/?utm_source=awesome-gpu-cloud&utm_medium=directory)** `Community` / `Marketplace` — Marketplace of independent GPU providers offering H200, H100, RTX PRO 6000 Blackwell and RTX 5090/4090 pods with SSH access; billed per second, with a CLI, Python SDK, REST API and a public price feed.
+  - Pricing: H100 from ~$1.55/hr, H200 from ~$3.40/hr, RTX 4090 from ~$0.30/hr; live table at [lium.io/pricing](https://lium.io/pricing) and [pricing.json](https://lium.io/pricing.json).
 - **[Prime Intellect](https://www.primeintellect.ai/)** `Community` — Decentralized compute exchange aggregating 12+ providers for distributed training and inference.
 - **[GPUFindr](https://gpufindr.com/)** `Community` — Live price comparison across CoreWeave, Lambda, RunPod, Vast.ai, and other GPU clouds; free API and MCP server.
 - **[NodeHawk](https://nodehawk.polsia.app/)** `Community` — Price aggregator scanning 50+ clouds to surface the cheapest GPU deals.
