@@ -109,6 +109,8 @@ Low-cost options that prioritize price-per-FLOP, often using consumer GPUs.
 - **[DataCrunch / Verda](https://datacrunch.io/)** `Official` — Low-cost GPU instances and clusters in Iceland/Finland.
   - Pricing: H100 from ~$2.29/hr.
 - **[Hyperstack](https://www.hyperstack.cloud/)** `Official` — EU-focused GPU cloud with H100, A100, and L40S instances; 100% renewable energy.
+- **[Lumino AI](https://www.luminoai.in/)** `Official` — India-first on-demand GPU rental with per-second INR billing, from RTX 4090 to A100/H100.
+  - Pricing: RTX 4090 from ~$1.10/hr, A100 80GB from ~$2.35/hr.
 
 ---
 
