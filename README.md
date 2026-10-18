@@ -109,6 +109,8 @@ Low-cost options that prioritize price-per-FLOP, often using consumer GPUs.
 - **[DataCrunch / Verda](https://datacrunch.io/)** `Official` — Low-cost GPU instances and clusters in Iceland/Finland.
   - Pricing: H100 from ~$2.29/hr.
 - **[Hyperstack](https://www.hyperstack.cloud/)** `Official` — EU-focused GPU cloud with H100, A100, and L40S instances; 100% renewable energy.
+- **[gpu.nz](https://gpu.nz/)** `Official` — Per-minute GPU cloud for Russian-speaking users, paid in rubles, with one-click ComfyUI, Forge, Jupyter, Ollama and vLLM templates.
+  - Pricing: RTX 3090 from ~$0.32/hr, RTX 4090 from ~$0.45/hr, H100 from ~$2.69/hr.
 
 ---
 
