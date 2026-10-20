@@ -77,6 +77,7 @@ Aggregators and peer-to-peer marketplaces for finding GPU capacity across provid
 - **[Prime Intellect](https://www.primeintellect.ai/)** `Community` — Decentralized compute exchange aggregating 12+ providers for distributed training and inference.
 - **[GPUFindr](https://gpufindr.com/)** `Community` — Live price comparison across CoreWeave, Lambda, RunPod, Vast.ai, and other GPU clouds; free API and MCP server.
 - **[NodeHawk](https://nodehawk.polsia.app/)** `Community` — Price aggregator scanning 50+ clouds to surface the cheapest GPU deals.
+- **[GrabGPU](https://grabgpu.com/)** `Community` — Cloud GPU prices with live stock from 22 providers, updated every hour.
 
 ---
 
