@@ -62,6 +62,8 @@ Platforms that abstract away infrastructure and scale GPU workloads to zero.
 - **[Google Cloud Run GPUs](https://cloud.google.com/run)** `Official` — Serverless container platform with NVIDIA L4 GPU support and request-driven or job-based GPU workloads.
 - **[Cerebrium](https://www.cerebrium.ai/)** `Official` — Serverless GPU platform for AI inference and training with infrastructure-as-code and fast cold starts.
 - **[Beam Cloud](https://www.beam.cloud/)** `Official` — Serverless GPU cloud for training and inference with per-second billing and Python SDK.
+- **[QIT](https://qit.energy/)** `Official` — Serverless GPUs (QIT Pods) that scale to zero, reserved/bare-metal GPUs, and a Model API with 407 models; L40s, RTX PRO 6000, H100, H200, B200, and B300.
+  - Pricing: per-second billing; L40s $1.25/hr, H100 $3.08/hr, H200 $3.51/hr, B200 $4.68/hr, B300 $5.46/hr.
 
 ---
 
