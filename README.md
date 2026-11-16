@@ -77,6 +77,8 @@ Aggregators and peer-to-peer marketplaces for finding GPU capacity across provid
 - **[Prime Intellect](https://www.primeintellect.ai/)** `Community` — Decentralized compute exchange aggregating 12+ providers for distributed training and inference.
 - **[GPUFindr](https://gpufindr.com/)** `Community` — Live price comparison across CoreWeave, Lambda, RunPod, Vast.ai, and other GPU clouds; free API and MCP server.
 - **[NodeHawk](https://nodehawk.polsia.app/)** `Community` — Price aggregator scanning 50+ clouds to surface the cheapest GPU deals.
+- **[EverXCloud](https://everxcloud.ai/en)** `Official` / `Marketplace` — US GPU marketplace where reviewed data centers and GPU owners rent out GPUs by the hour; EverXCloud Inc. invoices every rental as merchant of record.
+  - Pricing: hourly, set by each supplier and paid from one prepaid USD balance; live offers at https://everxcloud.ai/en/market.
 
 ---
 
