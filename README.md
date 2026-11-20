@@ -74,6 +74,7 @@ Aggregators and peer-to-peer marketplaces for finding GPU capacity across provid
 - **[TensorDock](https://www.tensordock.com/)** `Community` / `Marketplace` — Marketplace of independent hosts offering H100, A100, RTX 4090, and more across 100+ locations.
   - Pricing: H100 from ~$2.20/hr; no quotas or long-term contracts.
 - **[Shadeform](https://shadeform.com/)** `Community` / `Marketplace` — GPU cloud marketplace deploying across 30+ clouds with one console, API, and bill.
+- **[EverXCloud](https://everxcloud.ai/)** `Official` / `Marketplace` — US GPU marketplace where customers rent cloud GPUs by the hour from supplier offers and suppliers list their GPU servers; EverXCloud Inc. is merchant of record for every rental.
 - **[Prime Intellect](https://www.primeintellect.ai/)** `Community` — Decentralized compute exchange aggregating 12+ providers for distributed training and inference.
 - **[GPUFindr](https://gpufindr.com/)** `Community` — Live price comparison across CoreWeave, Lambda, RunPod, Vast.ai, and other GPU clouds; free API and MCP server.
 - **[NodeHawk](https://nodehawk.polsia.app/)** `Community` — Price aggregator scanning 50+ clouds to surface the cheapest GPU deals.
