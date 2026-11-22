@@ -77,6 +77,8 @@ Aggregators and peer-to-peer marketplaces for finding GPU capacity across provid
 - **[Prime Intellect](https://www.primeintellect.ai/)** `Community` — Decentralized compute exchange aggregating 12+ providers for distributed training and inference.
 - **[GPUFindr](https://gpufindr.com/)** `Community` — Live price comparison across CoreWeave, Lambda, RunPod, Vast.ai, and other GPU clouds; free API and MCP server.
 - **[NodeHawk](https://nodehawk.polsia.app/)** `Community` — Price aggregator scanning 50+ clouds to surface the cheapest GPU deals.
+- **[CoreHu](https://corehu.com/)** `Official` / `Marketplace` — GPU rental marketplace (RTX 3090/4090/5090 to A100, H100, H200, B200) billed per second in USD, with public live prices, a daily GPU price index and VRAM/run-cost pages for ~29k open models; MCP server for AI agents.
+  - Pricing: RTX 4090 from ~$0.73/hr, H100 SXM from ~$4.16/hr; live list at [corehu.com/gpu-prices](https://corehu.com/gpu-prices).
 
 ---
 
